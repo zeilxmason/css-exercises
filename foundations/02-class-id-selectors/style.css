@@ -1,6 +1,18 @@
-.number1, 
-.number3, 
-.number5 {
-    background-color: light red;
+.odd {
+    background-color: pink;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.large-font {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: bold;
 }
